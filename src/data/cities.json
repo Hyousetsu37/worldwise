@@ -37,16 +37,40 @@
       "id": 98443197
     },
     {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Panama",
+      "country": "Panama",
+      "emoji": "🇵🇦",
+      "date": "2023-03-03T18:15:16.000Z",
+      "notes": "Went for an event",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "8.973067157353698",
+        "lng": "-79.54073538636003"
       },
-      "id": 1780633751
+      "id": 98443201
+    },
+    {
+      "cityName": "Bogota",
+      "country": "Colombia",
+      "emoji": "🇨🇴",
+      "date": "2023-02-23T09:27:50.000Z",
+      "notes": "Went for a visa",
+      "position": {
+        "lat": "4.64491366527543",
+        "lng": "-74.08417313813759"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Santa Rosa de Cabal",
+      "country": "Colombia",
+      "emoji": "🇨🇴",
+      "date": "2023-08-31T09:32:50.549Z",
+      "notes": "test",
+      "position": {
+        "lat": "4.8752218624024515",
+        "lng": "-75.62249348870377"
+      },
+      "id": 98443203
     }
   ]
 }
